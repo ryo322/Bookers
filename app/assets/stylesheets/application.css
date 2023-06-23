@@ -18,6 +18,26 @@ a {
   color: black;
 }
 
+.new {
+  margin-top: 10px;
+}
+
+.edit {
+  margin-top: 10px;
+}
+
+.show {
+  margin: 30px;
+}
+
+.update {
+  margin: 10px 0;
+}
+
+.flash {
+  color: #008000;
+  margin: 30px;
+}
 
 
 /*
